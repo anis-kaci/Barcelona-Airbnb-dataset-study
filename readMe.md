@@ -2,7 +2,7 @@
 This summer i'm planning to go to Barcelona which is my favorite city, so i wanted to see the prices of the airbnbs there.
 
 ## Data source :
-I found [this amazing dataset on kaggle] https://www.kaggle.com/datasets/thedevastator/analysis-of-barcelona-airbnb-listings , and decided to clean it and work on it.
+I found [this amazing dataset on kaggle](https://www.kaggle.com/datasets/thedevastator/analysis-of-barcelona-airbnb-listings) , and decided to clean it and work on it.
 
 
 ## Tools: 
